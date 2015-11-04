@@ -23,7 +23,7 @@ is really just ordinary text, "plain and simple". How is it good for you?
 
 #### < i class="icon-file"></i> Create a document
 
-<i class="icon-folder-open"</i> button in the navigation bar.
+<i class="icon-folder-open"></i> button in the navigation bar.
 <i class="icon-file"></i> **New document**
 
 ### Tables
