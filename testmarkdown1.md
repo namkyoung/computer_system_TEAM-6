@@ -39,10 +39,18 @@ Term 2
 : Definition A
 : Definitiion B
 
+
+
+---
+```{.java}
+class Test{
+  public static void main(string[] args){
+    System.out.println("hello world!");
+  }
+}
+
 ```
-//foo
-var bar = 0;
-``` 
+
 ```sequence
 Alice->Bob: Hello Bob, how are you?
 Note right of Bob: Bob thinks
@@ -62,4 +70,3 @@ cond(yes)->e
 cond(no)->op
 ```
 
-dsfsdf
