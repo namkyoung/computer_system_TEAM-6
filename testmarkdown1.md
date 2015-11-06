@@ -43,6 +43,13 @@ Term 2
 //foo
 var bar = 0;
 ``` 
+```sequence
+Alice->Bob: Hello Bob, how are you?
+Note right of Bob: Bob thinks
+Bob-->Alice: I am good thanks!
+```
+
+And flow charts like this:
 
 ```flow
 st=>start: Start
