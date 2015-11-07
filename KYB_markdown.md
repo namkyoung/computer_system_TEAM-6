@@ -18,7 +18,6 @@
 
 
 ![펩 과르디올라] (https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Guardiola_2010.jpg/300px-Guardiola_2010.jpg)
-
               최고의 감독!
 
 
