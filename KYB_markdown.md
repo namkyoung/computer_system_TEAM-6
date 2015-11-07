@@ -6,8 +6,8 @@
 올해 최악의 팀 _아우크스부르크_
  
  > 이유가 뭐야?
- > > 뮌헨 :펩 감독의 전술과 디에고 영입의 성공
- > >  아우크스:  승강버프
+ > > ㅁ뮌헨 :펩 감독의 전술과 디에고 영입의 성공
+ > >  ㅁ아우크스:  승강버프
 
 [아우크스부르크](https://ko.wikipedia.org/wiki/FC_%EC%95%84%EC%9A%B0%ED%81%AC%EC%8A%A4%EB%B6%80%EB%A5%B4%ED%81%AC " 아우크스부르크") 에 대해 알아보자.
 
@@ -18,7 +18,8 @@
 
 
 ![펩 과르디올라] (https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Guardiola_2010.jpg/300px-Guardiola_2010.jpg)
-최고의 감독!
+
+              최고의 감독!
 
 
 이번 시즌 분데스리가 두 팀 비교
