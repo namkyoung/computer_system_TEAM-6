@@ -18,11 +18,11 @@
 ### 1) 시스템 목적
 센서 모듈을 이용해 독거노인들의 동절기 사고 방지와 복지 서비스를 개선에 목적을 둔다.
 ###2) 시스템 구조
-####+  전체 시스템 구조
+####  전체 시스템 구조
 ![전체시스템구조](https://github.com/namkyoung/computer_system_TEAM-6/blob/master/Images/%EC%A0%84%EC%B2%B4%EC%8B%9C%EC%8A%A4%ED%85%9C%EA%B5%AC%EC%A1%B0.jpg?raw=true)
-####+ 서버 구조
+#### 서버 구조
 ![서버구조](https://github.com/namkyoung/computer_system_TEAM-6/blob/master/Images/%EC%84%9C%EB%B2%84%EA%B5%AC%EC%A1%B0.jpg?raw=true)
-###3) 시스템 기능
+### 시스템 기능
 ![시스템기능](https://github.com/namkyoung/computer_system_TEAM-6/blob/master/Images/%EC%8B%9C%EC%8A%A4%ED%85%9C%EA%B8%B0%EB%8A%A5.jpg?raw=true)
 ###4) 시스템 구성요소
 ####- 구성 요소1 - 서버
